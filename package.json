@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/samanthaallen/node_crash_course/issues"
   },
-  "homepage": "https://github.com/samanthaallen/node_crash_course#readme"
+  "homepage": "https://github.com/samanthaallen/node_crash_course#readme",
+  "dependencies": {
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
